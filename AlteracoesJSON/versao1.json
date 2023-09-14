@@ -1,0 +1,11 @@
+{
+    "nome": "Vinicius",
+    "idade": 30,
+    "esta_trabalhando": true,
+    "hobbies": [
+        "Programar",
+        "jogar piant-ball",
+        "jogar CS 1.6",
+        "Maratonar Black-Mirror"
+    ]
+}
